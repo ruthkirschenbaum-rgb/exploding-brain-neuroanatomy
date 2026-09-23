@@ -1,0 +1,1550 @@
+{
+  "checked": "2026-09-23",
+  "scope": "Source label and FMA concept cross-check; not independent expert validation of every surface. Mirrored source geometry retained where provided by Human Atlas. The 31 cord segments are schematic, not BodyParts3D meshes.",
+  "sources": [
+    "https://github.com/ashemag/human-atlas",
+    "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_parts_list_e.txt",
+    "https://dbarchive.biosciencedbc.jp/data/bodyparts3d/LATEST/isa_element_parts.txt"
+  ],
+  "parts": [
+    {
+      "id": "FJ1654",
+      "label": "Right anterior cerebral artery",
+      "conceptId": "FMA50029",
+      "officialConcept": "right anterior cerebral artery",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1654M",
+      "label": "Left anterior cerebral artery",
+      "conceptId": "FMA50030",
+      "officialConcept": "left anterior cerebral artery",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1655",
+      "label": "Anterior communicating artery",
+      "conceptId": "FMA50169",
+      "officialConcept": "anterior communicating artery",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1656",
+      "label": "anterior inferior cerebellar artery",
+      "conceptId": "FMA50544",
+      "officialConcept": "anterior inferior cerebellar artery",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1656M",
+      "label": "Anterior inferior cerebellar artery",
+      "conceptId": "FMA50544",
+      "officialConcept": "anterior inferior cerebellar artery",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1657",
+      "label": "Right anterior spinal artery",
+      "conceptId": "FMA50532",
+      "officialConcept": "right anterior spinal artery",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1657M",
+      "label": "Left anterior spinal artery",
+      "conceptId": "FMA50533",
+      "officialConcept": "left anterior spinal artery",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1658",
+      "label": "Right anterior choroidal artery",
+      "conceptId": "FMA50088",
+      "officialConcept": "right anterior choroidal artery",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1658M",
+      "label": "Left anterior choroidal artery",
+      "conceptId": "FMA50089",
+      "officialConcept": "left anterior choroidal artery",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1659",
+      "label": "Right anterior temporal artery",
+      "conceptId": "FMA50383",
+      "officialConcept": "right anterior temporal artery",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1659M",
+      "label": "Left anterior temporal artery",
+      "conceptId": "FMA50384",
+      "officialConcept": "left anterior temporal artery",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1672",
+      "label": "Basilar artery",
+      "conceptId": "FMA50542",
+      "officialConcept": "basilar artery",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1676",
+      "label": "Right callosomarginal artery",
+      "conceptId": "FMA50347",
+      "officialConcept": "right callosomarginal artery",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1676M",
+      "label": "Left callosomarginal artery",
+      "conceptId": "FMA50348",
+      "officialConcept": "left callosomarginal artery",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1699",
+      "label": "Right pericallosal artery",
+      "conceptId": "FMA50359",
+      "officialConcept": "right pericallosal artery",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1699M",
+      "label": "Left pericallosal artery",
+      "conceptId": "FMA50360",
+      "officialConcept": "left pericallosal artery",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1700",
+      "label": "Right posterior inferior cerebellar artery",
+      "conceptId": "FMA50519",
+      "officialConcept": "right posterior inferior cerebellar artery",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1700M",
+      "label": "Left posterior inferior cerebellar artery",
+      "conceptId": "FMA50520",
+      "officialConcept": "left posterior inferior cerebellar artery",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1701",
+      "label": "Right posterior inferior cerebellar artery",
+      "conceptId": "FMA50519",
+      "officialConcept": "right posterior inferior cerebellar artery",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1701M",
+      "label": "Left posterior inferior cerebellar artery",
+      "conceptId": "FMA50520",
+      "officialConcept": "left posterior inferior cerebellar artery",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1702",
+      "label": "Right posterior inferior cerebellar artery",
+      "conceptId": "FMA50519",
+      "officialConcept": "right posterior inferior cerebellar artery",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1702M",
+      "label": "Left posterior inferior cerebellar artery",
+      "conceptId": "FMA50520",
+      "officialConcept": "left posterior inferior cerebellar artery",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1703",
+      "label": "Right posterior inferior cerebellar artery",
+      "conceptId": "FMA50519",
+      "officialConcept": "right posterior inferior cerebellar artery",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1703M",
+      "label": "Left posterior inferior cerebellar artery",
+      "conceptId": "FMA50520",
+      "officialConcept": "left posterior inferior cerebellar artery",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1704",
+      "label": "Right posterior inferior cerebellar artery",
+      "conceptId": "FMA50519",
+      "officialConcept": "right posterior inferior cerebellar artery",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1704M",
+      "label": "Left posterior inferior cerebellar artery",
+      "conceptId": "FMA50520",
+      "officialConcept": "left posterior inferior cerebellar artery",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1705",
+      "label": "Right posterior inferior cerebellar artery",
+      "conceptId": "FMA50519",
+      "officialConcept": "right posterior inferior cerebellar artery",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1705M",
+      "label": "Left posterior inferior cerebellar artery",
+      "conceptId": "FMA50520",
+      "officialConcept": "left posterior inferior cerebellar artery",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1706",
+      "label": "Right posterior inferior cerebellar artery",
+      "conceptId": "FMA50519",
+      "officialConcept": "right posterior inferior cerebellar artery",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1706M",
+      "label": "Left posterior inferior cerebellar artery",
+      "conceptId": "FMA50520",
+      "officialConcept": "left posterior inferior cerebellar artery",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1707",
+      "label": "Right posterior inferior cerebellar artery",
+      "conceptId": "FMA50519",
+      "officialConcept": "right posterior inferior cerebellar artery",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1707M",
+      "label": "Left posterior inferior cerebellar artery",
+      "conceptId": "FMA50520",
+      "officialConcept": "left posterior inferior cerebellar artery",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1708",
+      "label": "Right posterior inferior cerebellar artery",
+      "conceptId": "FMA50519",
+      "officialConcept": "right posterior inferior cerebellar artery",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1708M",
+      "label": "Left posterior inferior cerebellar artery",
+      "conceptId": "FMA50520",
+      "officialConcept": "left posterior inferior cerebellar artery",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1709",
+      "label": "Right posterior inferior cerebellar artery",
+      "conceptId": "FMA50519",
+      "officialConcept": "right posterior inferior cerebellar artery",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1709M",
+      "label": "Left posterior inferior cerebellar artery",
+      "conceptId": "FMA50520",
+      "officialConcept": "left posterior inferior cerebellar artery",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1710",
+      "label": "Right posterior inferior cerebellar artery",
+      "conceptId": "FMA50519",
+      "officialConcept": "right posterior inferior cerebellar artery",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1710M",
+      "label": "Left posterior inferior cerebellar artery",
+      "conceptId": "FMA50520",
+      "officialConcept": "left posterior inferior cerebellar artery",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1711",
+      "label": "Right posterior inferior cerebellar artery",
+      "conceptId": "FMA50519",
+      "officialConcept": "right posterior inferior cerebellar artery",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1711M",
+      "label": "Left posterior inferior cerebellar artery",
+      "conceptId": "FMA50520",
+      "officialConcept": "left posterior inferior cerebellar artery",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1713",
+      "label": "Right posterior communicating artery",
+      "conceptId": "FMA50085",
+      "officialConcept": "right posterior communicating artery",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1713M",
+      "label": "Left posterior communicating artery",
+      "conceptId": "FMA50086",
+      "officialConcept": "left posterior communicating artery",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1715",
+      "label": "Right posterior inferior cerebellar artery",
+      "conceptId": "FMA50519",
+      "officialConcept": "right posterior inferior cerebellar artery",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1715M",
+      "label": "Left posterior inferior cerebellar artery",
+      "conceptId": "FMA50520",
+      "officialConcept": "left posterior inferior cerebellar artery",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1726",
+      "label": "Right superior cerebellar artery",
+      "conceptId": "FMA50574",
+      "officialConcept": "right superior cerebellar artery",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1726M",
+      "label": "Left superior cerebellar artery",
+      "conceptId": "FMA50575",
+      "officialConcept": "left superior cerebellar artery",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1730",
+      "label": "Third ventricle",
+      "conceptId": "FMA78454",
+      "officialConcept": "third ventricle",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1731",
+      "label": "Fourth ventricle",
+      "conceptId": "FMA78469",
+      "officialConcept": "fourth ventricle",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1732",
+      "label": "Left angular gyrus",
+      "conceptId": "FMA72670",
+      "officialConcept": "left angular gyrus",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1733",
+      "label": "Right angular gyrus",
+      "conceptId": "FMA72669",
+      "officialConcept": "right angular gyrus",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1734",
+      "label": "Anterior commissure",
+      "conceptId": "FMA61961",
+      "officialConcept": "anterior commissure",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1735",
+      "label": "Brachium of left superior colliculus",
+      "conceptId": "FMA73462",
+      "officialConcept": "brachium of left superior colliculus",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1736",
+      "label": "Brachium of right superior colliculus",
+      "conceptId": "FMA73461",
+      "officialConcept": "brachium of right superior colliculus",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1737",
+      "label": "Central canal of spinal cord",
+      "conceptId": "FMA78497",
+      "officialConcept": "central canal of spinal cord",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1738",
+      "label": "Cerebral aqueduct",
+      "conceptId": "FMA78467",
+      "officialConcept": "cerebral aqueduct",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1739",
+      "label": "Left cingulate gyrus",
+      "conceptId": "FMA72718",
+      "officialConcept": "left cingulate gyrus",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1740",
+      "label": "Right cingulate gyrus",
+      "conceptId": "FMA72717",
+      "officialConcept": "right cingulate gyrus",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1741",
+      "label": "Commissure of fornix of forebrain",
+      "conceptId": "FMA61970",
+      "officialConcept": "commissure of fornix of forebrain",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1742",
+      "label": "Corpus callosum",
+      "conceptId": "FMA86464",
+      "officialConcept": "corpus callosum",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1743",
+      "label": "Habenula",
+      "conceptId": "FMA62032",
+      "officialConcept": "habenula",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1744",
+      "label": "Left inferior frontal gyrus",
+      "conceptId": "FMA72658",
+      "officialConcept": "left inferior frontal gyrus",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1745",
+      "label": "Right inferior frontal gyrus",
+      "conceptId": "FMA72657",
+      "officialConcept": "right inferior frontal gyrus",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1746",
+      "label": "Left inferior temporal gyrus",
+      "conceptId": "FMA72688",
+      "officialConcept": "left inferior temporal gyrus",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1747",
+      "label": "Right inferior temporal gyrus",
+      "conceptId": "FMA72687",
+      "officialConcept": "right inferior temporal gyrus",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1748",
+      "label": "Left insula",
+      "conceptId": "FMA72978",
+      "officialConcept": "left insula",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1749",
+      "label": "Right insula",
+      "conceptId": "FMA72977",
+      "officialConcept": "right insula",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1750",
+      "label": "Left internal capsule",
+      "conceptId": "FMA72907",
+      "officialConcept": "left internal capsule",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1751",
+      "label": "Right internal capsule",
+      "conceptId": "FMA72906",
+      "officialConcept": "right internal capsule",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1752",
+      "label": "Interventricular foramen",
+      "conceptId": "FMA75351",
+      "officialConcept": "interventricular foramen",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1753",
+      "label": "Left amygdala",
+      "conceptId": "FMA72833",
+      "officialConcept": "left amygdala",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1754",
+      "label": "Left caudate nucleus",
+      "conceptId": "FMA72827",
+      "officialConcept": "left caudate nucleus",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1755",
+      "label": "Choroid plexus of cerebral hemisphere",
+      "conceptId": "FMA61934",
+      "officialConcept": "choroid plexus of cerebral hemisphere",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1756",
+      "label": "Left fornix of forebrain",
+      "conceptId": "FMA72925",
+      "officialConcept": "left fornix of forebrain",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1757",
+      "label": "Left globus pallidus",
+      "conceptId": "FMA72831",
+      "officialConcept": "left globus pallidus",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1758",
+      "label": "White matter of left cerebral hemisphere",
+      "conceptId": "FMA260794",
+      "officialConcept": "white matter of left cerebral hemisphere",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1759",
+      "label": "Left hippocampus",
+      "conceptId": "FMA72714",
+      "officialConcept": "left hippocampus",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1760",
+      "label": "Hypothalamus",
+      "conceptId": "FMA62008",
+      "officialConcept": "hypothalamus",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1761",
+      "label": "Brachium of left inferior colliculus",
+      "conceptId": "FMA73464",
+      "officialConcept": "brachium of left inferior colliculus",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1762",
+      "label": "Left inferior colliculus",
+      "conceptId": "FMA73435",
+      "officialConcept": "left inferior colliculus",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1763",
+      "label": "Interpeduncular fossa",
+      "conceptId": "FMA83740",
+      "officialConcept": "interpeduncular fossa",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1764",
+      "label": "Lamina terminalis",
+      "conceptId": "FMA61975",
+      "officialConcept": "lamina terminalis",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1766",
+      "label": "Left lateral geniculate body",
+      "conceptId": "FMA73304",
+      "officialConcept": "left lateral geniculate body",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1767",
+      "label": "Left lateral ventricle",
+      "conceptId": "FMA78450",
+      "officialConcept": "left lateral ventricle",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1768",
+      "label": "Mammillary body",
+      "conceptId": "FMA74877",
+      "officialConcept": "mammillary body",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1769",
+      "label": "Medulla oblongata",
+      "conceptId": "FMA62004",
+      "officialConcept": "medulla oblongata",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1770",
+      "label": "Midbrain",
+      "conceptId": "FMA61993",
+      "officialConcept": "midbrain",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1771",
+      "label": "Optic chiasm",
+      "conceptId": "FMA62045",
+      "officialConcept": "optic chiasm",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1772",
+      "label": "Left optic nerve",
+      "conceptId": "FMA50878",
+      "officialConcept": "left optic nerve",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1773",
+      "label": "Left optic tract",
+      "conceptId": "FMA67936",
+      "officialConcept": "left optic tract",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1774",
+      "label": "Peduncle of midbrain",
+      "conceptId": "FMA62394",
+      "officialConcept": "peduncle of midbrain",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1775",
+      "label": "Pons",
+      "conceptId": "FMA67943",
+      "officialConcept": "pons",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1776",
+      "label": "Left putamen",
+      "conceptId": "FMA72829",
+      "officialConcept": "left putamen",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1777",
+      "label": "Left stria medullaris of thalamus",
+      "conceptId": "FMA73414",
+      "officialConcept": "left stria medullaris of thalamus",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1778",
+      "label": "Left stria terminalis",
+      "conceptId": "FMA72940",
+      "officialConcept": "left stria terminalis",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1779",
+      "label": "Left superior colliculus",
+      "conceptId": "FMA73423",
+      "officialConcept": "left superior colliculus",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1780",
+      "label": "Tuber cinereum",
+      "conceptId": "FMA62327",
+      "officialConcept": "tuber cinereum",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1781",
+      "label": "Cerebellum",
+      "conceptId": "FMA67944",
+      "officialConcept": "cerebellum",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1782",
+      "label": "Left thalamus",
+      "conceptId": "FMA258716",
+      "officialConcept": "left thalamus",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1783",
+      "label": "Left fusiform gyrus",
+      "conceptId": "FMA72690",
+      "officialConcept": "left fusiform gyrus",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1784",
+      "label": "Right fusiform gyrus",
+      "conceptId": "FMA72689",
+      "officialConcept": "right fusiform gyrus",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1785",
+      "label": "Left parahippocampal gyrus",
+      "conceptId": "FMA72706",
+      "officialConcept": "left parahippocampal gyrus",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1786",
+      "label": "Right parahippocampal gyrus",
+      "conceptId": "FMA72705",
+      "officialConcept": "right parahippocampal gyrus",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1787",
+      "label": "Left middle frontal gyrus",
+      "conceptId": "FMA72656",
+      "officialConcept": "left middle frontal gyrus",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1788",
+      "label": "Right middle frontal gyrus",
+      "conceptId": "FMA72655",
+      "officialConcept": "right middle frontal gyrus",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1789",
+      "label": "Left middle temporal gyrus",
+      "conceptId": "FMA72686",
+      "officialConcept": "left middle temporal gyrus",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1790",
+      "label": "Right middle temporal gyrus",
+      "conceptId": "FMA72685",
+      "officialConcept": "right middle temporal gyrus",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1791",
+      "label": "Left occipital lobe",
+      "conceptId": "FMA72976",
+      "officialConcept": "left occipital lobe",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1792",
+      "label": "Right occipital lobe",
+      "conceptId": "FMA72975",
+      "officialConcept": "right occipital lobe",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1793",
+      "label": "Orbital gyrus",
+      "conceptId": "FMA256194",
+      "officialConcept": "orbital gyrus",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1794",
+      "label": "Orbital gyrus",
+      "conceptId": "FMA256194",
+      "officialConcept": "orbital gyrus",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1795",
+      "label": "Pineal body",
+      "conceptId": "FMA62033",
+      "officialConcept": "pineal body",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1796",
+      "label": "Pituitary gland",
+      "conceptId": "FMA13889",
+      "officialConcept": "pituitary gland",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1797",
+      "label": "Left postcentral gyrus",
+      "conceptId": "FMA72666",
+      "officialConcept": "left postcentral gyrus",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1798",
+      "label": "Right postcentral gyrus",
+      "conceptId": "FMA72665",
+      "officialConcept": "right postcentral gyrus",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1799",
+      "label": "Posterior commissure",
+      "conceptId": "FMA62072",
+      "officialConcept": "posterior commissure",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1800",
+      "label": "Left precentral gyrus",
+      "conceptId": "FMA72662",
+      "officialConcept": "left precentral gyrus",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1801",
+      "label": "Right precentral gyrus",
+      "conceptId": "FMA72661",
+      "officialConcept": "right precentral gyrus",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1802",
+      "label": "Right caudate nucleus",
+      "conceptId": "FMA72826",
+      "officialConcept": "right caudate nucleus",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1803",
+      "label": "Choroid plexus of cerebral hemisphere",
+      "conceptId": "FMA61934",
+      "officialConcept": "choroid plexus of cerebral hemisphere",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1804",
+      "label": "Right fornix of forebrain",
+      "conceptId": "FMA72924",
+      "officialConcept": "right fornix of forebrain",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1805",
+      "label": "Right globus pallidus",
+      "conceptId": "FMA72830",
+      "officialConcept": "right globus pallidus",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1806",
+      "label": "White matter of right cerebral hemisphere",
+      "conceptId": "FMA260791",
+      "officialConcept": "white matter of right cerebral hemisphere",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1807",
+      "label": "Right hippocampus",
+      "conceptId": "FMA72713",
+      "officialConcept": "right hippocampus",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1808",
+      "label": "Hypothalamus",
+      "conceptId": "FMA62008",
+      "officialConcept": "hypothalamus",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1809",
+      "label": "Brachium of right inferior colliculus",
+      "conceptId": "FMA73463",
+      "officialConcept": "brachium of right inferior colliculus",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1810",
+      "label": "Right inferior colliculus",
+      "conceptId": "FMA73434",
+      "officialConcept": "right inferior colliculus",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1811",
+      "label": "Interpeduncular fossa",
+      "conceptId": "FMA83740",
+      "officialConcept": "interpeduncular fossa",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1812",
+      "label": "Lamina terminalis",
+      "conceptId": "FMA61975",
+      "officialConcept": "lamina terminalis",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1813",
+      "label": "Right lateral geniculate body",
+      "conceptId": "FMA73303",
+      "officialConcept": "right lateral geniculate body",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1814",
+      "label": "Right lateral ventricle",
+      "conceptId": "FMA78449",
+      "officialConcept": "right lateral ventricle",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1815",
+      "label": "Mammillary body",
+      "conceptId": "FMA74877",
+      "officialConcept": "mammillary body",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1816",
+      "label": "Right medial geniculate body",
+      "conceptId": "FMA73309",
+      "officialConcept": "right medial geniculate body",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1816M",
+      "label": "Left medial geniculate body",
+      "conceptId": "FMA73310",
+      "officialConcept": "left medial geniculate body",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1817",
+      "label": "Midbrain",
+      "conceptId": "FMA61993",
+      "officialConcept": "midbrain",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1818",
+      "label": "Optic chiasm",
+      "conceptId": "FMA62045",
+      "officialConcept": "optic chiasm",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1819",
+      "label": "Right optic nerve",
+      "conceptId": "FMA50875",
+      "officialConcept": "right optic nerve",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1820",
+      "label": "Right optic tract",
+      "conceptId": "FMA62382",
+      "officialConcept": "right optic tract",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1821",
+      "label": "Peduncle of midbrain",
+      "conceptId": "FMA62394",
+      "officialConcept": "peduncle of midbrain",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1822",
+      "label": "Pons",
+      "conceptId": "FMA67943",
+      "officialConcept": "pons",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1823",
+      "label": "Right putamen",
+      "conceptId": "FMA72828",
+      "officialConcept": "right putamen",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1824",
+      "label": "Right stria medullaris of thalamus",
+      "conceptId": "FMA73413",
+      "officialConcept": "right stria medullaris of thalamus",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1825",
+      "label": "Stria terminalis",
+      "conceptId": "FMA61974",
+      "officialConcept": "stria terminalis",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1826",
+      "label": "Right superior colliculus",
+      "conceptId": "FMA73422",
+      "officialConcept": "right superior colliculus",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1827",
+      "label": "Right thalamus",
+      "conceptId": "FMA258714",
+      "officialConcept": "right thalamus",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1828",
+      "label": "Tuber cinereum",
+      "conceptId": "FMA62327",
+      "officialConcept": "tuber cinereum",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1829",
+      "label": "Right amygdala",
+      "conceptId": "FMA72832",
+      "officialConcept": "right amygdala",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1830",
+      "label": "Cerebellum",
+      "conceptId": "FMA67944",
+      "officialConcept": "cerebellum",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1831",
+      "label": "Medulla oblongata",
+      "conceptId": "FMA62004",
+      "officialConcept": "medulla oblongata",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1832",
+      "label": "Septum of telencephalon",
+      "conceptId": "FMA61842",
+      "officialConcept": "septum of telencephalon",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1833",
+      "label": "Left superior frontal gyrus",
+      "conceptId": "FMA72654",
+      "officialConcept": "left superior frontal gyrus",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1834",
+      "label": "Right superior frontal gyrus",
+      "conceptId": "FMA72653",
+      "officialConcept": "right superior frontal gyrus",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1835",
+      "label": "Left superior parietal lobule",
+      "conceptId": "FMA72672",
+      "officialConcept": "left superior parietal lobule",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1836",
+      "label": "Right superior parietal lobule",
+      "conceptId": "FMA72671",
+      "officialConcept": "right superior parietal lobule",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1837",
+      "label": "Anterior part of left superior temporal gyrus",
+      "conceptId": "FMA72801",
+      "officialConcept": "anterior part of left superior temporal gyrus",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1838",
+      "label": "Anterior part of right superior temporal gyrus",
+      "conceptId": "FMA72800",
+      "officialConcept": "anterior part of right superior temporal gyrus",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1839",
+      "label": "Posterior part of left superior temporal gyrus",
+      "conceptId": "FMA72805",
+      "officialConcept": "posterior part of left superior temporal gyrus",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1840",
+      "label": "Posterior part of right superior temporal gyrus",
+      "conceptId": "FMA72804",
+      "officialConcept": "posterior part of right superior temporal gyrus",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1841",
+      "label": "Left supramarginal gyrus",
+      "conceptId": "FMA72668",
+      "officialConcept": "left supramarginal gyrus",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1842",
+      "label": "Right supramarginal gyrus",
+      "conceptId": "FMA72667",
+      "officialConcept": "right supramarginal gyrus",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1843",
+      "label": "Tentorium cerebelli",
+      "conceptId": "FMA83966",
+      "officialConcept": "tentorium cerebelli",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1844",
+      "label": "Basilar artery",
+      "conceptId": "FMA50542",
+      "officialConcept": "basilar artery",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1682",
+      "label": "Right internal carotid artery",
+      "conceptId": "FMA3949",
+      "officialConcept": "right internal carotid artery",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1682M",
+      "label": "Left internal carotid artery",
+      "conceptId": "FMA4062",
+      "officialConcept": "left internal carotid artery",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1692",
+      "label": "Sphenoid part of right middle cerebral artery",
+      "conceptId": "FMA50366",
+      "officialConcept": "sphenoid part of right middle cerebral artery",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1692M",
+      "label": "Sphenoid part of left middle cerebral artery",
+      "conceptId": "FMA50367",
+      "officialConcept": "sphenoid part of left middle cerebral artery",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1714",
+      "label": "Postcommunicating part of right posterior cerebral artery",
+      "conceptId": "FMA50641",
+      "officialConcept": "postcommunicating part of right posterior cerebral artery",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1714M",
+      "label": "Postcommunicating part of left posterior cerebral artery",
+      "conceptId": "FMA50642",
+      "officialConcept": "postcommunicating part of left posterior cerebral artery",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1723",
+      "label": "Precommunicating part of right posterior cerebral artery",
+      "conceptId": "FMA50639",
+      "officialConcept": "precommunicating part of right posterior cerebral artery",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1723M",
+      "label": "Precommunicating part of left posterior cerebral artery",
+      "conceptId": "FMA50640",
+      "officialConcept": "precommunicating part of left posterior cerebral artery",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1725",
+      "label": "Right vertebral artery",
+      "conceptId": "FMA3958",
+      "officialConcept": "right vertebral artery",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    },
+    {
+      "id": "FJ1725M",
+      "label": "Left vertebral artery",
+      "conceptId": "FMA4066",
+      "officialConcept": "left vertebral artery",
+      "referenceNameMatches": true,
+      "elementMapped": true,
+      "mirroredReference": false
+    }
+  ]
+}
